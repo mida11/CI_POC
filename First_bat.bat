@@ -1,2 +1,2 @@
 @echo off
-start chrome "https://www.youtube.com/"
+echo.>"C:\Users\meid\Downloads\dblank.txt"
